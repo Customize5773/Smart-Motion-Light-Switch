@@ -18,7 +18,7 @@
 | Multimeter | CAT III 600V minimum | Safe voltage verification |
 | Insulated Tools | VDE 1000V certified | Prevents accidental contact |
 
-## 🔌 Safe Wiring Practices
+## Safe Wiring Practices
 ### AC Mains Wiring
 - Use **14AWG minimum** for lighting circuits (12AWG for >15A)  
 - Maintain **8mm clearance** between AC and DC circuits  
@@ -63,7 +63,7 @@
 2. Use Class C fire extinguisher  
 3. Never use water on electrical fires  
 
-## ⚖Legal Compliance
+## Legal Compliance
 - This project is **NOT UL/CE certified**  
 - Check local regulations (NEC Article 404 for US, IEC 60669 for EU)  
 - Do not install in wet locations (bathrooms, outdoors) without proper IP rating  
